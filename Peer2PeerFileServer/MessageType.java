@@ -1,0 +1,3 @@
+public enum MessageType {
+	REQUEST, REPLY, JOIN, ACCEPT, DEPART, UPDATENEIGHBOUR, FETCH
+}
